@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ADOLib.cpp
+  AssemblyInfo.cpp
+  PostleitzahlenADO.cpp
+  Code wird generiert...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  ADOLib.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  ADOLib.vcxproj -> C:\Microsoft Visual Studio 2019\Projects\Visual C++\Datenbankzugriffe\Debug\ADOLib.dll

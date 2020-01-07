@@ -1,0 +1,8 @@
+﻿  FormMain.cpp
+C:\Microsoft Visual Studio 2019\Projects\Visual C++\Datenbankzugriffe\Globals.h(27): warning C4101: "ex": Unreferenzierte lokale Variable
+C:\Microsoft Visual Studio 2019\Projects\Visual C++\Datenbankzugriffe\FormMain.h(320): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
+C:\Microsoft Visual Studio 2019\Projects\Visual C++\Datenbankzugriffe\FormMain.h(361): warning C4244: "Argument": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  FormPostleitzahlen.cpp
+  Code wird generiert...
+  FormMain.obj : MSIL-Modulgefunden; inkrementelles Verknüpfen wird für MSIL deaktiviert; vollständiger Link wird durchgeführt
+  Datenbankzugriffe.vcxproj -> C:\Microsoft Visual Studio 2019\Projects\Visual C++\Datenbankzugriffe\Debug\Datenbankzugriffe.exe
